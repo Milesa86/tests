@@ -21,7 +21,6 @@
 
         "linebreak-style": [
             "error", 
-            "windows",
             "unix"
         ],
 
